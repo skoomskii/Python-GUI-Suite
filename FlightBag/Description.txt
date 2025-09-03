@@ -1,0 +1,10 @@
+FlightBag is a desktop application built on Python with a Tkinter GUI.
+
+Features include retrieval of airport;
+- General information
+- Runway information
+- METAR/TAF
+- Frequencies
+- Navaids
+
+Credits to AirportDB and Aviation Weather Center for their APIs.

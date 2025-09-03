@@ -1,0 +1,22 @@
+Weather Fetcher is a desktop application built on Python with a windows console.
+
+Users can input a location then view current;
+- Coordinates
+- Elevation
+- Timezone
+- GMT Offset
+- Forecast Time
+- Temperature
+- Relative Humidity
+- Daylight
+- Precipitation
+- Cloud Cover
+- Pressure
+- Windspeed
+- Wind direction
+- Wind gusts
+- Rain
+- Showers
+- Snowfall
+
+Credits to Open-Meteo for their Free Weather API.

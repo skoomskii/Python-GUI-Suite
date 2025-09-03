@@ -1,0 +1,3 @@
+QR Generator is a desktop application built on Python with a windows console GUI qrcode 8.2. It builds on the previous Password Generator application by converting its output into a PNG-format QR Code.
+
+Credits to the author Lincoln Loop for qrcode 8.2
