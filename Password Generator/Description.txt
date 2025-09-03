@@ -1,0 +1,7 @@
+Password Generator is a desktop application built on Python with a windows console GUI.
+
+Features include definition of;
+- special characters
+- upper cases
+- digits
+- password size
