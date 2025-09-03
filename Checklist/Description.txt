@@ -1,0 +1,7 @@
+A desktop Checklist application built on Python with a Tkinter GUI.
+
+Features include;
+- check boxes
+- text fields
+- local file storage, retrieval, and deletion
+- completion indication 
