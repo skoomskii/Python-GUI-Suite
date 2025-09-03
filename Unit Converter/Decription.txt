@@ -1,0 +1,6 @@
+Unit Converter is desktop application built on Python with a windows console GUI.
+
+Users can;
+- input a number
+- enter an Operation Code from the display menu
+- observe conversion of their input
